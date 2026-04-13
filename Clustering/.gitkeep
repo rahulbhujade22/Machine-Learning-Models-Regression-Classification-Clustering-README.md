@@ -1,0 +1,37 @@
+# 📊 Clustering Analysis (Unsupervised Learning)
+
+## 🔍 Overview
+
+This project applies clustering techniques to group similar data points based on patterns and relationships without predefined labels.
+
+## 📊 Model Approach
+
+* K-Means clustering used
+* Optimal number of clusters determined using Elbow Method
+
+## 📈 Key Findings
+
+* Data grouped into ~3–5 meaningful clusters
+* Each cluster represents a distinct segment based on features
+* Clear separation observed between clusters
+
+## 📊 Insights
+
+* Identified natural groupings in data
+* Useful for segmentation (customers/products)
+* Helps in targeted strategy development
+
+## 📉 Observations
+
+* Some overlap between clusters indicates complexity in data
+* Cluster quality depends on feature scaling
+
+## 💡 Applications
+
+* Customer segmentation
+* Market analysis
+* Behavioral grouping
+
+## 📌 Conclusion
+
+Clustering successfully identified patterns in data and provided meaningful segmentation insights.
