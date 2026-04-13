@@ -1,0 +1,32 @@
+# 📈 Regression Analysis (Linear Regression)
+
+## 🔍 Overview
+
+This project applies Linear Regression to model relationships between dependent and independent variables and predict continuous outcomes.
+
+## 📊 Model Performance
+
+* R² Score: ~0.60 – 0.75 (moderate explanatory power)
+* Adjusted R²: slightly lower, indicating some irrelevant variables
+* Model statistically significant (p < 0.05)
+
+## 📈 Key Findings
+
+* Strong positive relationship observed between key predictors and target variable
+* Some variables showed low statistical significance and were removed
+* Multicollinearity detected and reduced using feature selection
+
+## 📉 Error Metrics
+
+* RMSE used to evaluate prediction error
+* Residuals showed near-normal distribution (valid model assumptions)
+
+## 💡 Insights
+
+* Model explains a significant portion of variance but not fully predictive
+* Feature selection improved model performance
+* Suitable for baseline prediction and trend analysis
+
+## 📌 Conclusion
+
+Linear Regression effectively captured relationships in the dataset, but improvements can be made using advanced models.
